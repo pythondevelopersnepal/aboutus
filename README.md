@@ -61,10 +61,7 @@ We are always eager to collaborate and explore new opportunities. Feel free to r
 - Machine learning projects  
 - Consultancy and support  
 
-📧 **Email:** [your_email@example.com]  
-🌐 **LinkedIn:** [your_team_linkedin](https://linkedin.com)  
-💼 **Portfolio:** [your_team_website](https://yourwebsite.com)  
-
+📧 **Email:** [pythondevelopersnepal@gmail.com]  
 ---
 
 Let us help bring your vision to life with our expertise in Python and technology!  
