@@ -11,7 +11,8 @@ Welcome to our GitHub portfolio! We are a small group of passionate developers a
 Our software development projects emphasize real-world applications, efficient systems, and user-friendly designs. Below are some highlights of our expertise:  
 
 - **Web Development**  
-  - Creating dynamic websites using CMS like WordPress and frameworks like Django.  
+  - Creating dynamic websites using CMS like WordPress and frameworks like Django.
+  - Integrating AI capabilities into websites, including machine learning models and natural language processing (NLP) for enhanced user experiences.
 
 - **Annotation Systems**  
   - Designing tools for annotating datasets, including images and videos, enabling AI-driven solutions.  
@@ -26,7 +27,11 @@ Our software development projects emphasize real-world applications, efficient s
   - Proficiency in working with **MySQL** and **PostgreSQL** for efficient data storage and retrieval.  
 
 - **DevOps Expertise**  
-  - Skilled in **Docker** and **Nginx** for containerization and deployment of applications.  
+  - Skilled in **Docker** and **Nginx** for containerization and deployment of applications.
+  - Expertise in designing and deploying microservice architectures.
+  - Proficient in implementing CI/CD pipelines using tools like Jenkins, GitLab CI, and GitHub Actions.
+- **Cybersecurity Expertise**
+  - Strong understanding of security best practices for cloud environments and containerized applications.
 
 ---
 
@@ -58,7 +63,7 @@ Our research contributions aim to address complex challenges through the applica
 We are always eager to collaborate and explore new opportunities. Feel free to reach out to us for:  
 
 - Software development partnerships  
-- Machine learning projects  
+- Machine learning and AI projects  
 - Consultancy and support  
 
 📧 **Email:** [pythondevelopersnepal@gmail.com]  
